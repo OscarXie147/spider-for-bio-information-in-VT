@@ -9,6 +9,7 @@ import csv
 import time
 from openai import OpenAI
 
+
 # 浏览器配置
 chrome_options = Options()
 chrome_options.add_argument("--headless=new")
